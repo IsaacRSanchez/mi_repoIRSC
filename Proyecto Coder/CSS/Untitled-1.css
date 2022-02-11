@@ -1,0 +1,146 @@
+
+html { font-size: 62.5%;   
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Comforter&family=Mochiy+Pop+P+One&family=Neonderthaw&family=Oswald&family=Source+Serif+4:wght@300;500&display=swap');
+
+body{
+    background-color: rgb(8, 83, 11);
+}
+
+header {
+    margin: 15px 5px 5px 15px;
+    padding-left: 15px;
+    width: 1375px;
+    height: 290px;
+    font-family:'Mochiy Pop P One', sans-serif;
+    font-size: 25px;
+    color: green;
+    background-color: yellow;
+
+    display:inline-table;
+    justify-content: space-around;
+    align-content:space-around;
+
+    background-image: url(../ADICIONALES/logo.jpeg);
+    background-repeat: no-repeat;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    background-position-y: center;
+    background-position-x: right;
+    background-size:20%;
+
+}
+
+
+.eslogan{
+    font-family:'Mochiy Pop P One', sans-serif;
+    font-size: 30px;
+    color: green;
+    display: inline;
+    text-align:right;
+    margin-left: 20px;
+    margin-top: 15px;
+   
+}
+
+
+
+nav li {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Acme', sans-serif;
+    color: green;
+    font-size: 18px;
+    display: inline-block;
+    text-align: center;
+    margin: 25px 35px 25px 25px   
+    
+}
+
+section {
+    margin: 15px 5px 5px 15px;
+
+    width: 1375px;
+    height: 200px;
+    border-style: solid;
+    border-color: rgb(8, 83, 11);
+    
+
+    background-image: url(../ADICIONALES/delivery.jpeg);
+    background-repeat:no-repeat;
+    background-position-y: center;
+    background-position-x: left;
+    background-size: auto;  
+    
+}
+
+.domicilio {
+    font-family: 'Acme', sans-serif;
+    color: orange;
+    font-size: 60px;
+    font-style:oblique;
+    text-align: right;
+    margin-right: 3%;
+    margin-top: 4.8%;    
+
+}
+
+.formulario{
+    font-family: 'Acme', sans-serif;
+    color: orange;
+    font-size: 45px;
+    margin-top: .5%;
+}
+
+form{
+    
+    margin-left: 75rem;
+    border-color: orange;
+    border-width: 15px;
+    font-family: 'Acme', sans-serif;
+    color: rgb(8, 83, 11);
+    font-size: 20px;
+    background-color: rgba(255, 166, 0, 0.637);
+    display: inline-block;
+    text-align: center;
+}
+
+ol{
+    font-family: 'Acme', sans-serif;
+    color: rgb(8, 83, 11);
+    font-size: 15px;
+    
+}
+
+.h2redes{
+    font-family: 'Acme', sans-serif;
+    color: orange;
+    font-size: 55px;
+    text-align: center;
+}
+
+.listaredes{
+    font-family: 'Acme', sans-serif;
+    color: orange;
+    font-size: 55px;
+    text-align: center;
+    justify-content: space-around;
+    align-content:flex-end;
+}
+
+
+.h2sucursales{
+    font-family: 'Acme', sans-serif;
+    color: orange;
+    font-size: 55px;
+    text-align: center;
+}
+
+.listanosotros{
+    font-family: 'Acme', sans-serif;
+    color: orange;
+    font-size: 55px;
+    text-align: center;
+    align-content: space-around;
+}
