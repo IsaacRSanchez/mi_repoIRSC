@@ -22,13 +22,13 @@ header {
     justify-content: space-around;
     align-content:space-around;
 
-    background-image: url(../ADICIONALES/logo.jpeg);
+    /*background-image: url(../ADICIONALES/logo.jpeg);
     background-repeat: no-repeat;
     margin-right: 10px;
     margin-bottom: 0px;
     background-position-y: center;
     background-position-x: right;
-    background-size:20%;
+    background-size:20%; */
 
 }
 
@@ -71,7 +71,7 @@ section {
     background-repeat:no-repeat;
     background-position-y: center;
     background-position-x: left;
-    background-size: auto;  
+    background-size: auto;
     
 }
 
@@ -144,3 +144,4 @@ ol{
     text-align: center;
     align-content: space-around;
 }
+
