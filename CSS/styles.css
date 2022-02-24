@@ -1,0 +1,37 @@
+header {
+  background-color: green;
+}
+
+img {
+  text-align: center;
+  align-items: center;
+}
+
+h1 {
+  font: normal 25px/1.5 Arial, Helvetica, sans-serif;
+  color: yellow;
+}
+
+h2 {
+  font: normal 15px/1.5 Courier, italic;
+  color: yellow;
+  margin-left: 35px;
+}
+
+body {
+  background-color: yellow;
+}
+
+form {
+  background-color: orange;
+  border: solid orange;
+}
+
+form legend {
+  color: green;
+}
+
+form select {
+  font: normal 15px/1.5 Courier, italic;
+  color: green;
+}

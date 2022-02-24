@@ -1,0 +1,47 @@
+@import "coloresyfondos";
+
+
+$tituloprincipal: normal 25px/1.5 Arial, Helvetica, sans-serif;
+$titulosecundario: normal 15px/1.5 Courier, italic;
+
+
+header{
+   
+    background-color: $colorverde;
+}
+
+img {
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    font: $tituloprincipal;
+    color: $coloramarillo;
+}
+
+h2{
+    font: $titulosecundario;
+    color: $coloramarillo;
+    margin-left: 35px;
+}
+
+body{
+    background-color: $coloramarillo;
+}
+
+form {
+    background-color: $colornaranja;
+    border: solid $colornaranja;
+
+    legend{
+        color: $colorverde;
+    }
+
+    select{
+        font: $titulosecundario;
+        color: $colorverde;
+    }
+
+
+}
